@@ -1,0 +1,6 @@
+#!/bin/sh -l
+#FILENAME: Network_Lasso_Modify_Neighbor_Modify_L2_Strongly_Convex_w_pow_10_2.0_mu_0.1.sub
+
+cd $PBS_O_WORKDIR
+
+./Network_Lasso_Modify_Neighbor_Modify_L2_Strongly_Convex_w_pow_10_2.0_mu_0.1
